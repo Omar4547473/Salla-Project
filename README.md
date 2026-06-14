@@ -22,3 +22,4 @@
 
 ## 📷 لقطات من لوحة التحكم (Screenshots)
 ![Dashboard Page 1](Screenshots/dashboard_pic.png)
+
