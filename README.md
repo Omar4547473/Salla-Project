@@ -23,4 +23,4 @@
 ## 📷 لقطات من لوحة التحكم
 
 
-![Dashboard Page 1](Screenshots/Screenshot 2026-06-14 142715)
+![Dashboard Page 1](Screenshots/dashboard_pic.png.png)
